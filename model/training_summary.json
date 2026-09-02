@@ -1,0 +1,46 @@
+{
+  "indobert_acd": {
+    "checkpoint_source": "indobenchmark/indobert-base-p2",
+    "best_hyperparameters": {
+      "batch_size": 16,
+      "learning_rate": 3e-05,
+      "epochs": 5
+    },
+    "f1_macro_val": 0.8756302765551236,
+    "max_length": 26,
+    "saved_path": "../model/indobert_acd/best_model"
+  },
+  "indobert_asc": {
+    "checkpoint_source": "indobenchmark/indobert-base-p2",
+    "best_hyperparameters": {
+      "batch_size": 16,
+      "learning_rate": 2e-05,
+      "epochs": 5
+    },
+    "f1_macro_val": 0.9015201755021138,
+    "max_length": 26,
+    "saved_path": "../model/indobert_asc/best_model"
+  },
+  "mbert_acd": {
+    "checkpoint_source": "bert-base-multilingual-cased",
+    "best_hyperparameters": {
+      "batch_size": 16,
+      "learning_rate": 5e-05,
+      "epochs": 5
+    },
+    "f1_macro_val": 0.867985168855545,
+    "max_length": 37,
+    "saved_path": "../model/mbert_acd/best_model"
+  },
+  "mbert_asc": {
+    "checkpoint_source": "bert-base-multilingual-cased",
+    "best_hyperparameters": {
+      "batch_size": 16,
+      "learning_rate": 2e-05,
+      "epochs": 5
+    },
+    "f1_macro_val": 0.8864328147027271,
+    "max_length": 38,
+    "saved_path": "../model/mbert_asc/best_model"
+  }
+}

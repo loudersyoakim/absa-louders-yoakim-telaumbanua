@@ -1,0 +1,10 @@
+{
+  "indobert": {
+    "threshold": 0.45,
+    "f1_macro_at_threshold": 0.8778041076998759
+  },
+  "mbert": {
+    "threshold": 0.3,
+    "f1_macro_at_threshold": 0.8698931187266206
+  }
+}

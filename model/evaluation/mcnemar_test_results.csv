@@ -1,0 +1,12 @@
+pengujian,aspek,statistic,p_value,contingency_table
+ACD_exact_match_seluruh_label,-,8.0,0.21003961563110352,"[[220, 15], [8, 90]]"
+ACD_per_aspek,A1,0.0,0.5,"[[320, 2], [0, 11]]"
+ACD_per_aspek,A2,0.0,0.125,"[[320, 4], [0, 9]]"
+ACD_per_aspek,A3,3.0,0.7265625,"[[307, 3], [5, 18]]"
+ACD_per_aspek,B1,2.0,1.0,"[[307, 2], [3, 21]]"
+ACD_per_aspek,B2,0.0,1.0,"[[329, 0], [1, 3]]"
+ACD_per_aspek,B3,1.0,1.0,"[[322, 2], [1, 8]]"
+ACD_per_aspek,C1,0.0,1.0,"[[329, 0], [0, 4]]"
+ACD_per_aspek,C2,0.0,0.25,"[[309, 3], [0, 21]]"
+ACD_per_aspek,D1,4.0,0.002599477767944336,"[[291, 19], [4, 19]]"
+ASC_skenario1_ground_truth,-,15.0,0.3240086000878364,"[[512, 22], [15, 39]]"
